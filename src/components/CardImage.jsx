@@ -1,3 +1,4 @@
+import { PiHandTapLight } from "react-icons/pi";
 const CardImage = ({ img }) => {
   return (
     <div className="shrink-0 p-2 ">
